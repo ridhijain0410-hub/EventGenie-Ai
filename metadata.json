@@ -1,0 +1,6 @@
+{
+  "name": "EventGenie AI",
+  "description": "AI-powered event planning assistant for weddings, birthdays, and community events with budget management, timelines, vendor tracking, RSVP lists, and smart AI recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
